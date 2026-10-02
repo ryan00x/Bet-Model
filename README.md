@@ -109,6 +109,6 @@ docs/
 
 ---
 
-**Marc'Andria Peri** — CPES 3A (Paris-Saclay × HEC × IP Paris), Data Science track
+**Ryan Kohler** — CPES 3A (Paris-Saclay × HEC × IP Paris), Data Science track
 
 *Data: [football-data.co.uk](https://www.football-data.co.uk) · [Understat](https://understat.com)*
